@@ -3,7 +3,7 @@ layout: blog
 category: blog
 splash: ""
 tags: 
-  - "null"
+  - apples
 published: true
 title: Observing the Centennial
 ---
