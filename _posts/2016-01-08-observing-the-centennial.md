@@ -10,8 +10,7 @@ title: Observing the Centennial
 ## A New Post
 
 ## Observing The Centennial
-<blockquote></blockquote>
-### One hundred years later — media, maps, websites and organizations to guide your commemoration of “the war to end all wars.
+<blockquote>### One hundred years later — media, maps, websites and organizations to guide your commemoration of “the war to end all wars.</blockquote>
 ![Soliders in a Dead Forest]({{site.baseurl}}/media/dead-forest.jpg)
 <caption>World War I soldiers in a dead forest</caption>
 
